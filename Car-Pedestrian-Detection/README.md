@@ -1,7 +1,5 @@
 # Car-Pedestrian-Detection
-Car &amp; Pedestrian Detection
 
-Car & Pedestrian Detection
 
 If no video loads after running code, you may need to copy your opencv_ffmpeg.dll
 From: C:\opencv2413\opencv\sources\3rdparty\ffmpeg
